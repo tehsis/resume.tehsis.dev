@@ -27,13 +27,31 @@ Projects & People Management.
 
 Spanish (native), English
 
-# 
-
 # Experience
+
+## Pulumi
+
+## June 2025 - Present
+
+Engineering Manager, IaC Cloud
+
+Leading the engineering organization responsible for Pulumi’s Infrastructure as Code Cloud platform, including Deployments,Pulumi ESC (Environments, Secrets & Configuration), Pulumi IDP and Pulumi Registry. Responsible for engineering execution, technical strategy, product planning, and growing a distributed team of engineers across multiple product areas.
+
+Technologies used: Go, TypeScript, Kubernetes, AWS, Azure, GCP, Docker, GitHub Actions, Pulumi, AI-assisted development.
+
+Highlights
+
+* Expanded the engineering organization from a single-product team into a multi-product organization covering Deployments, ESC, Registry, and Pulumi IDP.
+* Defined the long-term technical strategy for Pulumi Cloud with a focus on cloud-native execution, remote deployments, platform integrations, and developer experience.
+* Led the development of major platform capabilities including deployment orchestration, infrastructure identity integrations, and cloud configuration management.
+* Drove multiple security initiatives including Bring Your Own Key (BYOK), OIDC improvements, approval workflows, and secure secret management.
+* Built and mentored a high-performing engineering team, establishing technical ownership, architectural review processes, and cross-team collaboration.
+* Partnered closely with Product, Design, Customer Success, and Executive Leadership to define roadmap priorities and align engineering investments with customer needs.
+* Introduced AI-assisted engineering practices across the organization to improve development velocity while maintaining engineering quality.
 
 ## Okta
 
-## May 2021 \- Present
+## May 2021 \- May 2025
 
 Engineer Manager, Engineering Productivity & Platform Crypto Services  
 **Technologies used:** golang, React, Typescript, kubernetes 
