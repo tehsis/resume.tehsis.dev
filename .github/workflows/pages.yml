@@ -24,6 +24,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Regenerate HTML and PDF
+        run: |
+          ./update-html.sh
+          ./update-pdf.sh
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
